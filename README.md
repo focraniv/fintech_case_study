@@ -13,9 +13,9 @@ Apple Pay provides an ease of payment via cardless credit cards and extra securi
 ## Landscape
 
 Apple Pay is apart of the PCI (Payment Card Industry) part of the Finance Industry. PCI deals with debit, credit, prepaid, e-purse, ATM, and POS cards, and associated businesses. Over the past decade, the PCI industry changed in three major ways.
- * Credit card consumer protections improved - The Card Act: It set limits on fees and interest rate hikes, required more transparent disclosures and put the kibosh on certain unfair billing practices, among other changes.
- * Sign-up bonuses and rewards grew - Banks realized this was the best way to attract customers.
- * Swiping gave way to dipping and tapping - EMV-chipped cards due to liability shift from consumers to businesses.
+ * _Credit card consumer protections improved_ - The Card Act: It set limits on fees and interest rate hikes, required more transparent disclosures and put the kibosh on certain unfair billing practices, among other changes.
+ * _Sign-up bonuses and rewards grew_ - Banks realized this was the best way to attract customers.
+ * _Swiping gave way to dipping and tapping_ - EMV-chipped cards due to liability shift from consumers to businesses.
 
 Apple Pay's major competitors are Visa, Mastercard, Discover, American Express, Paypal, Google Pay, Samsung Pay, Walmart Pay, etc.
 
