@@ -27,8 +27,6 @@ Apple Pay has revolutioned the PCI by allowing a Big Tech company to gain large 
 
 I recommend Apple get Apple Pay on competitors' smartphones to increase market share and usage. Apple will have to find a way to secure its tokens from competitors to prevent unnecessary fraud. Apple Pay's software security may be tight, but using different hardware can leak. This would be important to protect consumers using Apple Pay and protecting merchants from losing money due to fraud.
 
-![Tokenization](https://en.wikipedia.org/wiki/Tokenization_(data_security)#/media/File:How_mobile_payment_tokenization_works.png)
-
 ## Addendum
   * https://www.business-standard.com/about/what-is-apple-inc
   * https://guides.loc.gov/this-month-in-business-history/april/apple-computers-founded
