@@ -2,30 +2,30 @@
 
 ## Overview and Origin
 
-The company I'm doing my case study on is Apple Inc. Apple was founded on April 1, 1976; but incorporated in 1977. The founders of Apple Inc. are Steve Jobs, Steve Wozniak, and Ronald Wayne. The idea for the company came about when co-founders, Steve Jobs and Steve Wozniak wanted to change to way people view computers. At that time, computers were big bulky machines, but Jobs and Wozniak wanted computers to be user-friendly and be available in offices and homes. Orginally, Jobs sold his a VW Microbus, for a few hundred dollars, and Wozniak sold his HP-65 calculator for $500. They needed $1,000 for 50 Apple I circuit boards to show and sell to tech enthusiasts at the Homebrew Computer Club. Now, Apple makes money a load of money selling smartphones, personal computers, tablets, wearables and accessories, and services.
+The company I'm doing my case study on is Apple Inc. Apple was founded on April 1, 1976, but incorporated in 1977. The founders of Apple Inc. are Steve Jobs, Steve Wozniak, and Ronald Wayne. The idea for the company came about when co-founders Steve Jobs and Steve Wozniak wanted to change the way people view computers. Computers were big bulky machines at that time, but Jobs and Wozniak wanted computers to be user-friendly and available in offices and homes. Originally, Jobs sold his VW Microbus for a few hundred dollars, and Wozniak sold his HP-65 calculator for $500. They needed $1,000 for 50 Apple I circuit boards to show and sell to tech enthusiasts at the Homebrew Computer Club. Now, Apple makes a load of money selling smartphones, personal computers, tablets, wearables and accessories, and services.
 
-The idea of Apple Pay came from the booming credit card industry changing and numerous Fintech companies taking advantage of digital payment solutions.
+The idea of Apple Pay came from the booming credit card industry-changing and numerous Fintech companies taking advantage of digital payment solutions.
 
 ## Business Activities
 
-Apple Pay provides an ease of payment via cardless credit cards and extra security through tokenization -- masking a person's credit card information from a business and using a generated number in replacement. Any consumer with a credit card and/or an Apple product that is willing to make transactions is an intended customer for Apple Pay. Apple's brand loyalty is in best advantage over its competitors. In fact, I didn't know Apple Pay competition existed. 
+Apple Pay provides ease of payment via cardless credit cards and extra security through tokenization -- masking a person's credit card information from a business and using a generated number in replacement. Any consumer with a credit card and/or an Apple product willing to make transactions is an intended customer for Apple Pay. Apple's brand loyalty is in best advantage over its competitors. In fact, I didn't know Apple Pay competition existed. 
 
 ## Landscape
 
-Apple Pay is apart of the PCI (Payment Card Industry) part of the Finance Industry. PCI deals with debit, credit, prepaid, e-purse, ATM, and POS cards, and associated businesses. Over the past decade, the PCI industry changed in three major ways.
- * _Credit card consumer protections improved_ - The Card Act: It set limits on fees and interest rate hikes, required more transparent disclosures and put the kibosh on certain unfair billing practices, among other changes.
+Apple Pay is a part of the PCI (Payment Card Industry) part of the Finance Industry. PCI deals with debit, credit, prepaid, e-purse, ATM, POS cards, and associated businesses. Over the past decade, the PCI industry changed in three significant ways.
+ * _Credit card consumer protections improved_ - The Card Act: It set limits on fees and interest rate hikes, required more transparent disclosures, and put the kibosh on certain unfair billing practices, among other changes.
  * _Sign-up bonuses and rewards grew_ - Banks realized this was the best way to attract customers.
  * _Swiping gave way to dipping and tapping_ - EMV-chipped cards due to liability shift from consumers to businesses.
 
-Apple Pay's major competitors are Visa, Mastercard, Discover, American Express, Paypal, Google Pay, Samsung Pay, Walmart Pay, etc.
+Apple Pay's noteworthy competitors are Visa, Mastercard, Discover, American Express, Paypal, Google Pay, Samsung Pay, Walmart Pay, etc.
 
 ## Results
 
-Apple Pay has revolutioned the PCI by allowing a Big Tech company to gain large portion of market share. Once again, more consumers are dipping and tapping instead of swiping physical credit cards. Data shows that in 2019-21, Credit Card usage increased 33.8%, while cash usage decreased by 20.1% and debit card usage decreased by 7.2%. The PCI measures success by usage. Currently, Apple Pay holds a 45.5% market share over its competitors with cardless credit cards. As time passes by, I expect a majority of all credit card usage will be digital.
+Apple Pay has revolutionized the PCI by allowing a Big Tech company to gain an extensive portion of its market share. Once again, more consumers are dipping and tapping instead of swiping physical credit cards. Data shows that in 2019-21, Credit Card usage increased 33.8%, while cash usage decreased by 20.1% and debit card usage decreased by 7.2%. The PCI measures success by the use of a card. Currently, Apple Pay holds a 45.5% market share over its competitors with cardless credit cards. As time passes, I expect that a majority of all credit card usage will be digital.
 
 ## Recommendations
 
-I recommend Apple get Apple Pay on competitors' smartphones to increase market share and usage. Apple will have to find a way to secure its tokens from competitors to prevent unnecessary fraud. Apple Pay's software security may be tight, but using different hardware can leak. This would be important to protect consumers using Apple Pay and protecting merchants from losing money due to fraud.
+I recommend Apple get Apple Pay on competitors' smartphones to increase market share and usage. Apple will have to find a way to secure its tokens from competitors to prevent unnecessary fraud. Apple Pay's software security may be tight, but different hardware can leak. This would be important to protect consumers using Apple Pay and protect merchants from losing money due to fraud.
 
 ## Addendum
   * https://www.business-standard.com/about/what-is-apple-inc
